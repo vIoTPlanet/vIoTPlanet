@@ -1,0 +1,114 @@
+/* Copyright (c) 2020 OneYear Technologies */
+/* Version Info : 0.1.1
+   First Created: Oct 03, 2020
+   Last Modified : Jan 19, 2021
+   Author(s) : Shobhit Sharma
+
+*/
+
+
+/*  Declaring Fonts */
+/* INIT */
+
+@font-face{
+	font-family: 'Lato-LightItalic';
+/*    font-style: ; */
+/*    font-weight: ; */
+    src:url('assets/fonts/Lato-LightItalic.ttf');
+	}
+	
+@font-face{
+	font-family: 'Lato-Thin';
+/*    font-style: ; */
+/*    font-weight: ; */
+	src:url('assets/fonts/Lato-Thin.ttf');
+    }               
+
+@font-face{
+    font-family: 'Lato-Italic';
+/*    font-style: ; */
+/*    font-weight: ; */
+    src:url('assets/fonts/Lato-Italic.ttf');
+    }
+                    
+@font-face{
+	font-family: 'Lato-Light';
+/*    font-style: ; */
+/*    font-weight: ; */
+	src:url('assets/fonts/Lato-Light.ttf');
+	}
+       
+@font-face{
+	font-family: 'Lato-Bold';
+/*    font-style: ; */
+/*    font-weight: ; */
+	src: url('assets/fonts/Lato-Bold.ttf');
+	}
+
+@font-face{
+	font-family: 'Lato-BoldItalic';
+/*    font-style: ; */
+/*    font-weight: ; */
+	src: url('assets/fonts/Lato-BoldItalic.ttf');
+	}
+        
+@font-face{
+	font-family: 'Lato-Italic';
+/*    font-style: ; */
+/*    font-weight: ; */
+	src: url('assets/fonts/Lato-Italic.ttf');
+	}
+
+@font-face {
+	font-family: 'Lato-Regular';
+/*    font-style: ; */
+/*    font-weight: ; */
+	src: url('assets/fonts/Lato-Regular.ttf');
+}
+	
+@font-face{
+	font-family: 'Lato-Black';
+/*    font-style: ; */
+/*    font-weight: ; */
+	src: url('assets/fonts/Lato-Black.ttf');
+	}
+	
+@font-face{
+	font-family: 'Lato-BlackItalic';
+/*    font-style: ; */
+/*    font-weight: ; */
+	src: url('assets/fonts/Lato-BlackItalic.ttf');
+	}
+
+/* END */
+
+/* Backgrounds */
+/* INIT */
+
+body {
+	background-color: rgb(250, 250, 250);
+}
+
+/* END */
+
+/* Heading */
+/* INIT */
+
+h1 {
+	font-family: Lato-Black;
+}
+
+/* END */
+
+/* Paragraphs */
+/* INIT */
+
+p {
+	font-family: Lato-Regular;
+}
+
+/* END */
+
+shobhit {
+	color: red;
+}
